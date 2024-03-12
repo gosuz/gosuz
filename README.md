@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Go, the opposite of Stop :vertical_traffic_light:</h1>
-<h3 align="center">An aspiring web developer, passionate about fitness and well-being</h3>
+<h1 align="left">Hi 👋, I'm Go, the opposite of Stop :vertical_traffic_light:</h1>
+<p align="left"> I'm an aspiring web developer, who recently graduated from Le Wagon Tokyo #1508! :jp: I'm interested in fitness :muscle: and well-being, and hope to bring these two things together through my skills learned from coding. In the future I hope to build my own website making fitness and mental care accesible to more people </p>
 
-- Hobbies: **Watching a good game of football :soccer:**
+  - Hobbies: **Watching a good game of football :soccer:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
