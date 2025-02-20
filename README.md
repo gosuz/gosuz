@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Go, the opposite of stop :vertical_traffic_light:</h1>
 <p align="left"> I'm an aspiring QA engineer, who recently graduated from Le Wagon Tokyo #1508! :jp: I'm interested in fitness :muscle: and well-being, and hope to bring these two things together through my skills learned from coding. In the future I hope to build my own website making fitness and mental care accesible to more people </p>
 
-<p align="left"> I've also started a blog about software testing. Check it out <a href="https://gosuzuki-software-testing.blogspot.com">here</a> </p>
+<p align="left"> I've also started a blog about software testing. Check it out <a href="https://gosuzuki-software-testing.blogspot.com" target="_blank">here</a> </p>
 
   - Hobbies: **Watching a good game of football :soccer:**
 
