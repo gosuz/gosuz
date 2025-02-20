@@ -8,7 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/go-suzuki-5b9a6a209" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="go-suzuki-5b9a6a209" width="40" style="display: inline-block;"></a> 
- <a href="https://gosuzuki-software-testing.blogspot.com" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/9d4f453e-c986-4c37-92ff-a6d893999eeb" alt="gosuzuki-softwaretestingblog" width="40" style="display: inline-block;"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://gosuzuki-software-testing.blogspot.com" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/9d4f453e-c986-4c37-92ff-a6d893999eeb" alt="gosuzuki-softwaretestingblog" width="40" style="display: inline-block;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
